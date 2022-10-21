@@ -15,6 +15,8 @@ set ttyfast
 set mouse=a
 set t_Co=256
 
+set cursorline
+
 set foldcolumn=3
 
 set rtp+=~/.vim/bundle/Vundle.vim
